@@ -1,9 +1,5 @@
 # Roll-A-Ball
 
-Roll a Ball Tutorial in Unity with modifications
-
-## Description
-
 This is the Roll a Ball tutorial in Unity modified to use accelerometers (mainly Android phone) for player movement
 
 ## How to run
